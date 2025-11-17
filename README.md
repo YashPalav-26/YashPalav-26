@@ -77,12 +77,12 @@ I specialize in engineering elegant and efficient digital experiences. My focus 
       <p>I'm always open to connecting with fellow developers, discussing new ideas, or exploring potential collaborations. Feel free to reach out!</p>
       <blockquote>
         <p>
-          <strong>STATUS:</strong> Open to new opportunities & collaborations.<br>
-          <strong>LEARNING:</strong> Currently diving deep into WebGL and Three.js.
+          <strong>Status : </strong> Open to new opportunities & collaborations.<br>
+          <strong>Learning : </strong> Currently diving deep into WebGL and Three.js.
         </p>
       </blockquote>
       <p>
-        <strong>Quick Actions:</strong><br/>
+        <strong>Quick Actions : </strong><br/>
         <a href="https://www.linkedin.com/in/yashpalav/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
         <a href="mailto:yashpalav48@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
         <a href="https://yashpalav.vercel.app" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-00bcd4?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio"/></a>
