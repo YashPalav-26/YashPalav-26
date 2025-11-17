@@ -1,6 +1,6 @@
 <img align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="260">
 
-### Hello there, fellow <coders/>! 👋
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <font color="#E94560"><𝚌𝚘𝚍𝚎𝚛𝚜/></font>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <img src="https://img.shields.io/badge/Digital_Craftsman_(Full--Stack_Developer)-363636?style=flat&logoColor=white" alt="Role">
 
