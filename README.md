@@ -100,7 +100,7 @@
       </p>
     </td>
     <td width="220" align="center">
-      <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Coding GIF" width="200" />
+      <img src="./assets/cat.gif" alt="Coding GIF" width="200" />
     </td>
   </tr>
 </table>
