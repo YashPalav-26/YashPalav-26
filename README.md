@@ -1,8 +1,8 @@
-<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="220">
+<img align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="260">
 
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <font color="#E94560"><𝚌𝚘𝚍𝚎𝚛𝚜/></font>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hello there, fellow <coders/>! 👋
 
-**`Digital Craftsman (Full-Stack Developer)`**
+<img src="https://img.shields.io/badge/Digital_Craftsman_(Full--Stack_Developer)-363636?style=flat&logoColor=white" alt="Role">
 
 I specialize in engineering elegant and efficient digital experiences. My focus is on turning complex problems into simple, beautiful, and intuitive solutions, with a passion for clean code and user-centric design.
 
@@ -24,9 +24,9 @@ I specialize in engineering elegant and efficient digital experiences. My focus 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" style="padding-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="36" height="36" alt="Three.js" style="padding-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=threejs&theme=dark" width="36" height="36" alt="Three.js" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" style="padding-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="36" height="36" alt="Express" style="padding-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" width="36" height="36" alt="Express" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" style="padding-right:10px;"/>
@@ -39,11 +39,11 @@ I specialize in engineering elegant and efficient digital experiences. My focus 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" style="padding-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub" style="padding-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" height="36" alt="GitHub" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="36" height="36" alt="Vite" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" width="36" height="36" alt="Bun" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" style="padding-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="36" height="36" alt="Vercel" style="padding-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="36" height="36" alt="Vercel" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="36" height="36" alt="Blender" style="padding-right:10px;"/>
 </p>
 
@@ -71,7 +71,7 @@ I specialize in engineering elegant and efficient digital experiences. My focus 
 
 ### 🚀 Let's Connect & Collaborate
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="150">
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub Cat" width="150">
 
 <p>
   I'm always open to connecting with fellow developers, discussing new ideas, or exploring potential collaborations. Feel free to reach out!
