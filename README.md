@@ -100,4 +100,4 @@
 
 <p align="center">
   ✨ <em>Thanks for visiting — feel free to explore my repos or say hi.</em>
-</p>```
+</p>
