@@ -1,4 +1,4 @@
-<img align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="260">
+<img align="right" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="260">
 
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <font color="#E94560"><𝚌𝚘𝚍𝚎𝚛𝚜/></font>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
@@ -71,20 +71,31 @@ I specialize in engineering elegant and efficient digital experiences. My focus 
 
 ### 🚀 Let's Connect & Collaborate
 
-<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub Cat" width="150">
-
-<p>
-  I'm always open to connecting with fellow developers, discussing new ideas, or exploring potential collaborations. Feel free to reach out!
-</p>
-
-- **STATUS:** `Open to new opportunities & collaborations`
-- **LEARNING:** `Currently diving deep into WebGL and Three.js.`
-- **CONTACT:** 
-  - **LinkedIn:** [in/yashpalav](https://www.linkedin.com/in/yashpalav/)
-  - **Email:** [yashpalav48@gmail.com](mailto:yashpalav48@gmail.com)
+<table>
+  <tr>
+    <td valign="top">
+      <p>I'm always open to connecting with fellow developers, discussing new ideas, or exploring potential collaborations. Feel free to reach out!</p>
+      <blockquote>
+        <p>
+          <strong>STATUS:</strong> Open to new opportunities & collaborations.<br>
+          <strong>LEARNING:</strong> Currently diving deep into WebGL and Three.js.
+        </p>
+      </blockquote>
+      <p>
+        <strong>Quick Actions:</strong><br/>
+        <a href="https://www.linkedin.com/in/yashpalav/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+        <a href="mailto:yashpalav48@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+        <a href="https://yashpalav.vercel.app" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-00bcd4?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio"/></a>
+      </p>
+    </td>
+    <td width="220" align="center">
+      <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Coding GIF" width="200" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
   ✨ <em>Thanks for visiting — feel free to explore my repos or say hi.</em>
-</p>
+</p>```
