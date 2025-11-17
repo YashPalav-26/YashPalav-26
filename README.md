@@ -1,19 +1,21 @@
-<img align="right" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="260">
-
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <font color="#E94560"><𝚌𝚘𝚍𝚎𝚛𝚜/></font>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
-<img src="https://img.shields.io/badge/Digital_Craftsman_(Full--Stack_Developer)-363636?style=flat&logoColor=white" alt="Role">
-
-I specialize in engineering elegant and efficient digital experiences. My focus is on turning complex problems into simple, beautiful, and intuitive solutions, with a passion for clean code and user-centric design.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yashpalav/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yashpalav26" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.instagram.com/_highkeyyash_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:yashpalav48@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
-
----
+<table>
+  <tr>
+    <td valign="middle">
+      <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <font color="#E94560"><𝚌𝚘𝚍𝚎𝚛𝚜/></font>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+      <img src="https://img.shields.io/badge/Digital_Craftsman_(Full--Stack_Developer)-363636?style=flat&logoColor=white" alt="Role">
+      <p>I specialize in engineering elegant and efficient digital experiences. My focus is on turning complex problems into simple, beautiful, and intuitive solutions, with a passion for clean code and user-centric design.</p>
+      <p align="left">
+        <a href="https://www.linkedin.com/in/yashpalav/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+        <a href="https://twitter.com/yashpalav26" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+        <a href="https://www.instagram.com/_highkeyyash_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+        <a href="mailto:yashpalav48@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+      </p>
+    </td>
+    <td width="300" align="center">
+      <img src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="260">
+    </td>
+  </tr>
+</table>
 
 ### 🧰 Languages & Tools
 
