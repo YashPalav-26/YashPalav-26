@@ -10,7 +10,6 @@
         <a href="https://twitter.com/yashpalav26" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
         <a href="https://www.instagram.com/_highkeyyash_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
         <a href="mailto:yashpalav48@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-        ![Profile views](https://visitor-badge.glitch.me/badge?page_id=YashPalav-26.YashPalav-26)
       </p>
     </td>
     <td width="300" align="center">
