@@ -14,6 +14,7 @@
     <td width="300" align="center">
       <img src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="260">
       <div style="margin-top:12px;">
+        <br/>
         <img src="https://komarev.com/ghpvc/?username=YashPalav-26&label=Profile%20Views&color=1E90FF&style=flat-circle" alt="Profile Views" />
       </div>
     </td>
@@ -21,7 +22,7 @@
   </tr>
 </table>
 
-### 🧰 Languages
+### 🧰 Languages & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" style="padding-right:10px;"/>
