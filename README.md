@@ -3,7 +3,7 @@
     <td valign="middle">
       <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <font color="#E94560"><𝚌𝚘𝚍𝚎𝚛𝚜/></font>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
       <img src="https://img.shields.io/badge/Digital_Craftsman_(Full--Stack_Developer)-363636?style=flat&logoColor=white" alt="Role">
-      <p>Currently a Full Stack Developer Intern, building CRM systems, dashboards, and scalable web applications using React, Next.js, Node.js, and modern databases. I focus on clean UI, efficient backend architecture, and solving real business problems.</p>
+      <p>My name is Yash Palav an IT student from Mumbai, Maharashtra, currently gaining hands-on experience as a Full Stack Developer Intern, building CRMs, dashboards, and full-stack applications.</p>
       <p align="left">
         <a href="https://www.linkedin.com/in/yashpalav/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
         <a href="https://twitter.com/yashpalav26" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
@@ -70,6 +70,7 @@
 </table>
 
 ---
+
 ###
 
 <div align="center">
@@ -79,6 +80,7 @@
 </div>
 
 ###
+
 ---
 
 ### 🚀 Let's Connect & Collaborate
