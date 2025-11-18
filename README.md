@@ -9,6 +9,7 @@
         <a href="https://twitter.com/yashpalav26" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-circle&logo=twitter&logoColor=white" alt="Twitter"></a>
         <a href="https://www.instagram.com/_highkeyyash_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-circle&logo=instagram&logoColor=white" alt="Instagram"></a>
         <a href="mailto:yashpalav48@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-circlee&logo=gmail&logoColor=white" alt="Gmail"></a>
+        <a href="https://yashpalav.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00bcd4?style=flat-circle&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
         <img src="https://komarev.com/ghpvc/?username=YashPalav-26&label=Profile%20Views&color=1E90FF&style=flat-circle" alt="Profile Views"/>
       </p>
     </td>
@@ -99,10 +100,10 @@
       </blockquote>
       <p>
         <strong>Quick Actions : </strong><br/>
-        <a href="https://www.linkedin.com/in/yashpalav/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-        <a href="mailto:yashpalav48@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-        <a href="https://yashpalav.vercel.app" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-00bcd4?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio"/></a>
-      </p>
+  <a href="https://www.linkedin.com/in/yashpalav/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:yashpalav48@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://yashpalav.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00bcd4?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+</p>
     </td>
     <td width="220" align="center">
       <img src="./assets/cat.gif" alt="Coding GIF" width="200" />
