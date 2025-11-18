@@ -94,12 +94,10 @@
       <p>I'm always open to connecting with fellow developers, discussing new ideas, or exploring potential collaborations. Feel free to reach out!</p>
       <blockquote>
         <p>
-          <strong>Status : </strong> Open to new opportunities & collaborations.<br>
-          <strong>Learning : </strong> Currently diving deep into WebGL and Three.js.
+          <strong>Status : </strong> Open to new opportunities & collaborations.
         </p>
       </blockquote>
       <p>
-        <strong>Quick Actions : </strong><br/>
   <a href="https://www.linkedin.com/in/yashpalav/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:yashpalav48@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://yashpalav.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00bcd4?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
