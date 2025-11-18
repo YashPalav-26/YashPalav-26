@@ -3,12 +3,14 @@
     <td valign="middle">
       <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <font color="#E94560"><𝚌𝚘𝚍𝚎𝚛𝚜/></font>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
       <img src="https://img.shields.io/badge/Digital_Craftsman_(Full--Stack_Developer)-363636?style=flat&logoColor=white" alt="Role">
+      <img src="https://komarev.com/ghpvc/?username=YashPalav-26&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
       <p>My name is Yash an IT student from Mumbai, Maharashtra, currently gaining hands-on experience as a Full Stack Developer Intern, building CRMs, dashboards, and full-stack applications.</p>
       <p align="left">
         <a href="https://www.linkedin.com/in/yashpalav/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
         <a href="https://twitter.com/yashpalav26" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
         <a href="https://www.instagram.com/_highkeyyash_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
         <a href="mailto:yashpalav48@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+        ![Profile views](https://visitor-badge.glitch.me/badge?page_id=YashPalav-26.YashPalav-26)
       </p>
     </td>
     <td width="300" align="center">
