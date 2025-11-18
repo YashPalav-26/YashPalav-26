@@ -3,7 +3,6 @@
     <td valign="middle">
       <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <font color="#E94560"><𝚌𝚘𝚍𝚎𝚛𝚜/></font>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
       <img src="https://img.shields.io/badge/Digital_Craftsman_(Full--Stack_Developer)-363636?style=flat&logoColor=white" alt="Role">
-      <img src="https://komarev.com/ghpvc/?username=YashPalav-26&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
       <p>My name is Yash an IT student from Mumbai, Maharashtra, currently gaining hands-on experience as a Full Stack Developer Intern, building CRMs, dashboards, and full-stack applications.</p>
       <p align="left">
         <a href="https://www.linkedin.com/in/yashpalav/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -14,7 +13,11 @@
     </td>
     <td width="300" align="center">
       <img src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="260">
+      <div style="margin-top:12px;">
+        <img src="https://komarev.com/ghpvc/?username=YashPalav-26&label=Profile%20Views&color=1E90FF&style=flat-circle" alt="Profile Views" />
+      </div>
     </td>
+
   </tr>
 </table>
 
