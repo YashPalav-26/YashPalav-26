@@ -6,7 +6,7 @@
       </h1>
       <img src="https://img.shields.io/badge/Digital_Craftsman_(Full--Stack_Developer)-363636?style=flat&logoColor=white" alt="Role Badge">
       <p>
-        My name is Yash — an IT student from Mumbai, Maharashtra, currently gaining hands-on experience as a Full Stack Developer Intern, building CRMs, dashboards, and full-stack applications.
+        My name is Yash an IT student from Mumbai, Maharashtra, currently gaining hands-on experience as a Full Stack Developer Intern, building CRMs, dashboards, and full-stack applications.
       </p>
       <p align="left">
         <a href="https://www.linkedin.com/in/yashpalav/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
