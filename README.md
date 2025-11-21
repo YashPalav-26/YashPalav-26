@@ -80,7 +80,9 @@
 
 ---
 
-<div align="center">
+### 🎧 Currently Vibing To
+
+<div align="center" style="margin-top: 10px;">
   <a href="https://open.spotify.com/user/31675ilj2apoy5wjjbynixryxbgi">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31675ilj2apoy5wjjbynixryxbgi&count=5&unique=true" alt="Spotify Recently Played"/>
   </a>
