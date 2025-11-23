@@ -34,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js"/>
+  <img src="https://cdn.simpleicons.org/framer/white" width="36" height="36" alt="Framer Motion"/>
   <img src="https://skillicons.dev/icons?i=threejs&theme=dark" width="36" height="36" alt="Three.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/>
   <img src="https://skillicons.dev/icons?i=express&theme=dark" width="36" height="36" alt="Express"/>
